@@ -1,0 +1,10 @@
+Data Collection :
+For this project i have obtained the dataset from Kaggle :
+https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april?select=2020-04-16+Coronavirus+Tweets.CSV.
+
+Visualization :
+Word Cloud
+Count Plot
+Histogram
+Distribution Plot
+Bar Plot
