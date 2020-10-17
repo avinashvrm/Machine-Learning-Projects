@@ -1,1 +1,61 @@
 
+Flipr Hackathon 7.0
+Machine Learning
+Indian Premier League 2020
+
+The Indian Premier League (IPL) is seen as the glitzy high of the cricketing season, with its
+daily share of short bursts of thrills stretched across the summer. Since its launch in 2008, the
+IPL became a seasonal fix as inevitable as soaring temperatures and the reflexive craving for
+ice creams. The Twenty20 tournament seemingly brooked no resistance while the purists
+leant on the classical air that permeated Test cricket. Even in 2009 and 2014 when the Lok
+Sabha elections clashed with the IPL’s schedule, the Board of Control for Cricket in India
+solved the logistical nightmare. South Africa played host in the first instance while the United
+Arab Emirates (UAE) conducted the initial set of matches in 2014. But 2020 has been a
+difficult year for humankind with the relentless spread of the coronavirus pandemic. Since
+March, sport with its social-gathering moorings had to pause: the Olympics was postponed
+and Wimbledon cancelled. The IPL was rescheduled too from its original start-date of March
+29, before a window opened up for the event to be held in the UAE. Saturday night’s
+inaugural contest of the IPL’s 13th edition at Abu Dhabi’s Sheikh Zayed Stadium, that pitted
+defending champion Mumbai Indians and last year’s runner-up Chennai Super Kings, dished
+out a last-over climax with the latter stunning the former.
+The lay-off from the game and the attendant rust was evident in the way the rivals fielded
+while the artificial crowd sound infused into the live telecast, reflects these fraught times of
+empty stadiums and bio-bubbles. Because of the constraints imposed by the virus and the
+cancellation of domestic cricket in India for now, the IPL at the Emirates, has turned out to be
+the season opener for the national players while also offering an opportunity for overseas
+stars to have a biff in the park. Eight teams playing 60 matches in 53 days across Abu Dhabi,
+Dubai and Sharjah, with a summit clash on November 10, will present its own set of
+challenges. The organizers have set stringent protocols even as a few tested positive in the
+lead-up to the championship. The players have to watch their health-parameters while
+helping cricket find its feet, an endeavor that England did first with remarkable efficiency by
+hosting the West Indies, Pakistan and Australia. It is a template worth emulating as fans
+starved of action wait to catch live moving images of M.S. Dhoni, Virat Kohli, Rohit Sharma,
+Steve Smith, Kane Williamson, AB de Villiers and other icons. 
+Problem Statement
+Runs at top of the order, runs at the death, runs throughout the middle overs. Runs matter
+everywhere and they are so important in the construction of a T20 inning. Unlike the rest of
+the formats where you have 3-4 specialist batsmen to accumulate the bulk of runs, T20
+cricket demands different specialist batsmen at each and every phase of the innings.
+With the advent of franchise cricket and mainly IPL, teams have packed themselves with
+suitable batting options to meet these demands. And hence the leading run-scorer of a team
+always need not be an opener or a number three batsman. A batsman who bats lower down
+the order can also end up as the leading scorer within a team, much like Rishabh Pant or
+Andre Russell in the previous seasons.
+Objective:
+The objective of the problem statement is to predict Total runs of a player in IPL 2020. The
+output file should contain only Player Name and the respective IPL 2020 for the test data.
+There are 2 files provided:
+1. Variable_Description.xlsx:
+This file contains description of all the variables available in the dataset
+2. Data.xlsx:
+This contains train dataset on which model has to be trained, which contains parameters of IPL
+2018 and total runs in the IPL 2019. It also contains test dataset, which contains parameters of
+IPL 2019, using which you need to predict total runs in IPL 2020.
+Competition Rules
+• There should only be one submission per participant/team
+• Privately sharing of code is not permitted. In case of plagiarism, the participant shall be
+ disqualified
+• Those attempting the problem should send one .csv/.xlsx file, containing Player Name and
+Total Runs in IPL 2020
+• The solution_sheet should also be attached along with the results
+• Share all your files in this Google form link: https://forms.gle/WiNqHoxQEDTPVX9MA
